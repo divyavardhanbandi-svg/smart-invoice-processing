@@ -1,0 +1,14 @@
+Nimbus Cloud Services Inc.
+INVOICE
+Invoice No: NCS-2026-1041
+Invoice Date: 2026-10-02
+Due Date: 2026-11-01
+PO Number: PO-7781
+
+Description                      Amount
+Cloud hosting - October          $1,200.00
+Premium support subscription     $300.00
+
+Subtotal: $1,500.00
+Tax (8%): $120.00
+Total Due: $1,620.00

@@ -1,0 +1,11 @@
+From: BrightOffice Supplies Ltd
+Invoice Number: BO-55021
+Date: October 9, 2026
+Due Date: November 8, 2026
+
+Printer toner (x4)         $240.00
+Office supplies - paper    $85.50
+
+Subtotal: $325.50
+VAT (10%): $32.55
+Grand Total: $358.05

@@ -1,0 +1,11 @@
+Skyline Travel Co.
+Invoice #: ST-8890
+Invoice Date: 11/03/2026
+Due Date: 11/18/2026
+
+Flight - SFO to NYC        $640.00
+Hotel accommodation        $520.00
+
+Subtotal: $1,160.00
+Tax: $0.00
+Total: $1,260.00

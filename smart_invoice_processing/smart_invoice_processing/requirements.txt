@@ -1,0 +1,6 @@
+pandas
+python-dateutil
+openpyxl
+pdfplumber
+pytesseract
+pillow
